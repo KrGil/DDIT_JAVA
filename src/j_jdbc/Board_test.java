@@ -14,7 +14,8 @@ public class Board_test {
 	int board_no;
 	String title;
 	String content;
-	String user;
+	String user; 
+	String aa;
 	
 	public String getUser() {
 		return user;
